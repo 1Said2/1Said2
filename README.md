@@ -1,55 +1,53 @@
-# Hola, soy 1Said2
+# 1Said2
 
-Desarrollador de software enfocado en crear aplicaciones web, servicios backend y soluciones prácticas para resolver problemas reales.
+Desarrollador enfocado en construir soluciones de software aplicadas a productos web, backend y aplicaciones móviles, con trabajo visible en sistemas de gestión, APIs de análisis y proyectos con visión por computadora.
 
-## Sobre mí
+## Perfil
 
-- Desarrollo aplicaciones web, servicios backend y aplicaciones móviles.
-- Trabajo principalmente con Python, JavaScript y Dart.
-- Me interesa la arquitectura de software, la validación de datos y la automatización.
-- Busco crear soluciones claras, mantenibles y escalables.
+- Desarrollo proyectos full-stack con foco en backend y arquitectura de servicios.
+- Trabajo con aplicaciones orientadas a datos, validación técnica y métricas de evaluación.
+- Integro frontend, APIs y persistencia local o relacional según el contexto del producto.
+- Mantengo repositorios públicos con proyectos en Python, JavaScript, Dart y PHP.
 
-## Tecnologías
+## Stack tecnológico
 
 ### Lenguajes
+Python · JavaScript · Dart · PHP · SQL
 
-- Python
-- JavaScript
-- Dart
+### Backend, datos y procesamiento
+FastAPI · Node.js · Express · Apollo Server · GraphQL · PostgreSQL · Sequelize · geoespacial con GeoPandas/Shapely/Rasterio · procesamiento y evaluación con NumPy/scikit-learn
 
-### Desarrollo
+### Frontend y móvil
+React + Vite · Flutter (Material 3) · SQLite en dispositivo
 
-- APIs REST
-- Servicios backend
-- Validación y procesamiento de datos
-- Aplicaciones web
-- Aplicaciones móviles
-
-### Herramientas
-
-- Git
-- GitHub
-- Docker
-- Linux
+### Frameworks y herramientas
+Laravel 12 · PyTorch · timm · JWT · Docker · Git/GitHub
 
 ## Proyectos destacados
 
-### FloodPulse Backend
+### [FloodPulse Backend](https://github.com/1Said2/floodpulse-backend)
+API en FastAPI para estimación de riesgo de inundación hiperlocal con datos públicos y componentes geoespaciales. Expone endpoints de cálculo de riesgo y validación para escenarios históricos.
 
-Servicio backend desarrollado con Python para gestionar la lógica principal de una plataforma de monitoreo.
+### [FloodPulse Validation](https://github.com/1Said2/floodpulse-validation)
+Repositorio de validación del motor FloodPulse con scripts para construir conjuntos de validación, derivar calibraciones satelitales y evaluar desempeño mediante curva ROC.
 
-### FloodPulse Validation
+### [WoodLens](https://github.com/1Said2/wood_lens)
+Aplicación móvil en Flutter para identificación de especies de madera por imagen, conectada a backend de inferencia y con historial local en SQLite.
 
-Proyecto orientado a la validación y el procesamiento de datos.
+### [backend_maderas](https://github.com/1Said2/backend_maderas)
+Servicio en FastAPI para clasificación de 35 especies de madera con PyTorch y EfficientFormerV2-S0, incluyendo endpoint de predicción Top-3 para imágenes.
 
-### Wood Lens
+### [Pizys](https://github.com/1Said2/pizys)
+Aplicación web full-stack con React + Vite y backend GraphQL sobre Express/Apollo, con autenticación JWT, RBAC y capa de datos en PostgreSQL con Sequelize.
 
-Aplicación móvil desarrollada con Dart y Flutter.
+### [Crematic](https://github.com/1Said2/Crematic)
+Sistema web de gestión para heladerías implementado con Laravel 12, Tailwind CSS y Alpine.js, orientado a operaciones, inventario y facturación.
 
 ## Enfoque profesional
 
-Me interesa participar en proyectos donde pueda aplicar buenas prácticas de desarrollo, mejorar procesos y construir software útil, confiable y fácil de mantener.
+Me interesa participar en productos donde el software conecte operación real con decisiones basadas en datos: desde APIs y modelos de inferencia, hasta interfaces de uso diario para equipos y clientes.
 
-## Contacto
+## Contacto y enlaces
 
-- GitHub: [1Said2](https://github.com/1Said2)
+- GitHub: [@1Said2](https://github.com/1Said2)
+- Repositorios públicos: [github.com/1Said2?tab=repositories](https://github.com/1Said2?tab=repositories)
